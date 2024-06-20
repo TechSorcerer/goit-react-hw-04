@@ -5,7 +5,7 @@ const ErrorMessage = ({ message }) => {
   return (
     <div className={styles.errorMessage}>
       <img
-        src="/src/images/oopsImage.png"
+        src="/src/assets/oopsImage.png"
         alt="Oops"
         width="300"
         height="300"
